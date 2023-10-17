@@ -1,2 +1,2 @@
-# personal-u-responsive-card
+# personal-ui-responsive-card
 UI Responsive Card
